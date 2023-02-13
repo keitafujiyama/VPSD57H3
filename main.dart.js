@@ -51781,7 +51781,7 @@ A.m8.prototype={
 R(a){return A.aan(new A.Nk(a),t.ai)}}
 A.Nk.prototype={
 $3(a,b,c){var s=null,r=this.a,q=t.w
-return A.ac7(A.a71(new A.xj(B.jj,B.pI,B.pJ,B.kh,s,B.j2,s,A.a([new A.no(""+b.b+" ppl",s,s,s,s),A.X0(s,r.a5(q).f.a.gdw()*0.05,s),new A.rA(window.location.href,r.a5(q).f.a.gdw()*0.25,s)],t.c),s),s,s),s)},
+return A.ac7(A.a71(new A.xj(B.jj,B.pI,B.pJ,B.kh,s,B.j2,s,A.a([new A.no("Keita Fujiyama\n"+b.b+" ppl",s,s,s,s),A.X0(s,r.a5(q).f.a.gdw()*0.05,s),new A.rA(window.location.href,r.a5(q).f.a.gdw()*0.25,s)],t.c),s),s,s),s)},
 $C:"$3",
 $R:3,
 $S:98}
